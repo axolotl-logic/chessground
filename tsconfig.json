@@ -1,6 +1,6 @@
 {
   "include": ["src/*.ts"],
-  "exclude": [],
+  "exclude": ["coverage", "tests"],
   "compilerOptions": {
     "outDir": "dist",
     "rootDir": "src",
